@@ -24,6 +24,8 @@ Em sistemas de atendimento, a gestão eficiente de filas e o tempo de resposta s
    ```bash
    git clone https://github.com/PeuLucas77/sistema-simulacao-atendimento.git
 2. Acesse a pasta do projeto:
-   cd cd sistema-simulacao-atendimento
-3. Execute o script de atendimento:
+   ```bash
+   cd sistema-simulacao-atendimento
+3. Execute o script do atendimento
+   ```bash
    python src/atendimento.py

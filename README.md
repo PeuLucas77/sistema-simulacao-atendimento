@@ -22,7 +22,7 @@ Em sistemas de atendimento, a gestão eficiente de filas e o tempo de resposta s
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/PeuLucas77/sistema-simulacao-atendimento.git
+   git clone https://github.com/Pedro-Domingues-Lima/sistema-simulacao-atendimento.git
 2. Acesse a pasta do projeto:
    ```bash
    cd sistema-simulacao-atendimento
